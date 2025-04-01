@@ -1,2 +1,0 @@
-[2025-03-31 20:57:16] [INFO] [utils.log_i18n:99] - Log message translations loaded, supported languages: zh_CN, en_US, zh_TW, ru_RU
-[2025-03-31 21:07:36] [WARNING] [scheduler.task_setup:178] - log_log_dir_not_exist
