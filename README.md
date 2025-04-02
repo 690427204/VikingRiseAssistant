@@ -1,3 +1,5 @@
+For English documentation, please see [README in English](README_en_US.md).
+Для документации на русском языке см. [README на русском](README_ru_RU.md).
 # 维京崛起游戏助手使用说明
 
 ## 重要提示
